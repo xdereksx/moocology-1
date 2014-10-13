@@ -1,3 +1,3 @@
 moocology
 =========
-Hello, World!
+Hello, Sweet World!
